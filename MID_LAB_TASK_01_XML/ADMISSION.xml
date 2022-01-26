@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Admission>
+ <student ID = "11" >
+    <NAME  >John Carter</NAME>
+    <ADMISSION_DATE>
+    <day>25</day>
+    <month>12</month>
+    <year>2015</year>
+    </ADMISSION_DATE>
+</student>
+ <student ID = "29" >
+    <NAME  >Bob Marshal</NAME>
+    <ADMISSION_DATE>
+    <day>13</day>
+    <month>01</month>
+    <year>1999</year>
+    </ADMISSION_DATE>
+</student>
+ <student ID = "35" >
+    <NAME  >Clark Kent</NAME>
+    <ADMISSION_DATE>
+    <day>17</day>
+    <month>06</month>
+    <year>2005</year>
+    </ADMISSION_DATE>
+</student>
+</Admission>
+     
