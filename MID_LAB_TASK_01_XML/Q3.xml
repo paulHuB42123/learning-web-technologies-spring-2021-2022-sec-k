@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<citizen>
+ <people ID = "1" >
+    <NAME  >John Doe</NAME>
+    <ADDRESS>
+        <HOUSE_NO>H# 38</HOUSE_NO>
+        <ROAD_NO>R#3</ROAD_NO>
+        <AREA>BANANI</AREA>
+        <CITY>DHAKA</CITY>
+    </ADDRESS>
+    <DEPARTMENT>Sales</DEPARTMENT>
+    <SALARY>$20000</SALARY>
+</people>
+ <people ID = "2" >
+    <NAME  >Mark Zuckerberg</NAME>
+    <ADDRESS>
+    <FLAT>Flat# A/1</FLAT>
+        <HOUSE_NO>H# 20</HOUSE_NO>
+        <ROAD_NO>R#18</ROAD_NO>
+        <AREA>Accounts</AREA>
+        <CITY>DHAKA</CITY>
+    </ADDRESS>
+    <DEPARTMENT>Sales</DEPARTMENT>
+    <SALARY>$12000</SALARY>
+</people>
+ <people ID = "3" >
+    <NAME  >Ala Voski </NAME>
+    <ADDRESS>
+        <HOUSE_NO>H# 38</HOUSE_NO>
+        <ROAD_NO>R33</ROAD_NO>
+        <CITY>DHAKA</CITY>
+    </ADDRESS>
+    <DEPARTMENT>Human Resource</DEPARTMENT>
+    <SALARY>$30000</SALARY>
+</people>
+</citizen>
