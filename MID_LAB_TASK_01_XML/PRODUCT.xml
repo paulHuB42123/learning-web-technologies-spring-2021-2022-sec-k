@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<product>
+<brand>
+    <NAME ID = "11" >Samsung</NAME>
+    <UNIT_PRICE>$35000</UNIT_PRICE>
+    <STOCK>50</STOCK>
+    <STATUS> 1 </STATUS>
+</brand>
+<brand>
+   
+    <NAME ID = "20" >HTC</NAME>
+    <UNIT_PRICE>$65300</UNIT_PRICE>
+    <STOCK>35</STOCK>
+    <STATUS> 0 </STATUS>
+</brand>
+<brand>
+    <NAME ID = "23">Nokia</NAME>
+    <UNIT_PRICE>$25100</UNIT_PRICE>
+    <STOCK>100</STOCK>
+    <STATUS> 1 </STATUS>
+</brand>
+</product>
